@@ -1,2 +1,2 @@
 # Unusual-Options
-SweepCast offers Unusual Options Activity, this repo is for all information regarding Options and Order Flow related to Unusual Options and Dark Pool
+SweepCast offers Unusual Options Activity, this repo is for all information regarding Options and Order Flow related to Unusual Options and Dark Pool. You can go to www.sweepcast.com to learn more about how unusual options works, how to trade unusual activity, how to profit from unusual options, and how does it actually work in the background. We are the #1 Unusual Options Scanner for Retail Traders and featured in Benzinga and Yahoo News. 
